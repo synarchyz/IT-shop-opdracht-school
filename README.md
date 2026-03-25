@@ -12,7 +12,8 @@ Het controleert of er genoeg voorraad is en geeft een melding als dat niet zo is
 Ook wordt de voorraad automatisch bijgewerkt.
 
 ## Flowchart
-Zie de afbeelding in deze repository.
+Zie de afbeelding (dezelfde als in de repo)
+![Flowchart](jouwbestandsnaam.png)
 
 ## Gemaakt door
 Donn Bleeker
