@@ -1,6 +1,6 @@
 # IT-shop opdracht
 
-Dit project is gemaakt voor school. mij (donn)
+Dit project is gemaakt voor school. 
 
 ## Inhoud
 - Python script voor een IT-shop
