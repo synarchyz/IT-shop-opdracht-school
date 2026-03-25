@@ -13,7 +13,7 @@ Ook wordt de voorraad automatisch bijgewerkt.
 
 ## Flowchart
 Zie de afbeelding (dezelfde als in de repo)
-![Flowchart](jouwbestandsnaam.png)
+![Flowchart](ITshop.drawio.png)
 
 ## Gemaakt door
 Donn Bleeker
